@@ -6,7 +6,7 @@
   <li> Sistema bancário (feito em equipe): <a href="https://github.com/GabFMM/SistemaBancario.git"> ver repositório </a> </li>
   <li> Jogo SFML (feito em equipe): <a href="https://github.com/GabFMM/Jogo_TecProg.git"> ver repositório </a> </li>
   <li> Assembly x64 (feito sozinho): <a href="https://github.com/GabFMM/Projetos-Assembly-x64.git"> ver repositório </a> </li>
-  <li> Gerenciador de senha: <a href="https://github.com/GabFMM/Gerenciador_de_senhas.git"> link do repositorio </a> </li>
+  <li> Gerenciador de senhas (feito sozinho): <a href="https://github.com/GabFMM/Gerenciador_de_senhas.git"> link do repositorio </a> </li>
 </ul>
 <br>
 <h3>🚧 Projetos em andamento:</h3>
