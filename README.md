@@ -18,8 +18,10 @@
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg>
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Qt"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
-<img align="left" alt="SQLite" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="SFML" width="40px" style="padding-right:10px" src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" />
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="SQLite" width="40px" style="padding-right:10px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="Assembly" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png"/>
 <br><br>
 <h3>Contatos:</h3>
