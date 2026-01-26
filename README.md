@@ -3,15 +3,15 @@
 
 <h3>🏆 Projetos destaques feitos:</h3>
 <ul>
-  <li> Sistema bancário (feito em equipe): <a href="https://github.com/GabFMM/SistemaBancario.git"> ver repositório </a> </li>
-  <li> Jogo SFML (feito em equipe): <a href="https://github.com/GabFMM/Jogo_TecProg.git"> ver repositório </a> </li>
-  <li> Assembly x64 (feito sozinho): <a href="https://github.com/GabFMM/Projetos-Assembly-x64.git"> ver repositório </a> </li>
-  <li> Gerenciador de senhas (feito sozinho): <a href="https://github.com/GabFMM/Gerenciador_de_senhas.git"> link do repositorio </a> </li>
+  <li> Sistema bancário: <a href="https://github.com/GabFMM/SistemaBancario.git"> ver repositório </a> </li>
+  <li> Jogo SFML: <a href="https://github.com/GabFMM/Jogo_TecProg.git"> ver repositório </a> </li>
+  <li> Assembly x64: <a href="https://github.com/GabFMM/Projetos-Assembly-x64.git"> ver repositório </a> </li>
+  <li> Gerenciador de senhas: <a href="https://github.com/GabFMM/Gerenciador_de_senhas.git"> link do repositorio </a> </li>
 </ul>
 <br>
 <h3>🚧 Projetos em andamento:</h3>
 <ul>
-
+  <li> Gerenciador de senhas 2: <a href="https://github.com/GabFMM/Gerenciador_de_senhas_2.git"> link do repositorio </a></li>
 </ul>
 <br>
 <h3>Conhecimentos em:</h3>
